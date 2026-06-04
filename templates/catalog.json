@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Mutual Non-Disclosure Agreement (Cover Page)",
+    "description": "Cover page for the Common Paper Mutual NDA. Fill in party details, purpose, effective date, term, governing law, and any modifications to the standard terms.",
+    "filename": "Mutual-NDA-coverpage.md"
+  },
+  {
+    "name": "Mutual Non-Disclosure Agreement (Standard Terms)",
+    "description": "Standard terms for the Common Paper Mutual NDA v1.0. Covers confidentiality obligations, exceptions, permitted disclosures, term, return of information, proprietary rights, and governing law.",
+    "filename": "Mutual-NDA.md"
+  }
+]
